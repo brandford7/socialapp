@@ -1,0 +1,1 @@
+const PostBox:React.FC=()=>

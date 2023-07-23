@@ -1,0 +1,2 @@
+
+const ErrorPage:React.FC=()=>{}
